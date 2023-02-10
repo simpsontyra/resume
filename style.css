@@ -3,7 +3,9 @@ main {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     text-emphasis-color: black;
-    background-color: grey;
+    background-color: silver;
+    border-style: solid;
+    border-color: black;
 }
 
 *{
@@ -12,4 +14,8 @@ main {
 img{
     height: 150px;
    width: 150px;
+}
+h3 {
+    background-color: #efefef;
+    padding: 10px;
 }
