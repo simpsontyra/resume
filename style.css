@@ -13,9 +13,14 @@ main {
 }
 img{
     height: 150px;
-   width: 150px;
+    width: 150px;
+    border-top-left-radius: 80px 70px;
+    border-top-right-radius: 80px 70px;
 }
 h3 {
     background-color: #efefef;
     padding: 10px;
+}
+a:hover {
+    background-color: gold;
 }
